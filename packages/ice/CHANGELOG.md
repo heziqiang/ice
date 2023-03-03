@@ -1,5 +1,14 @@
 # Changelog
 
+## 3.1.3
+
+### Patch Changes
+
+- 18ea5b2d: fix: enable hmr to avoid reload
+- Updated dependencies [18ea5b2d]
+  - @ice/webpack-config@1.0.9
+  - @ice/bundles@0.1.6
+
 ## 3.1.2
 
 ### Patch Changes
